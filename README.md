@@ -60,7 +60,7 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 
 ### 📊 GitHub Stats (Will Personalize After Username)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebrahmanik&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebrahmanik&theme=tokyonight" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=mujeebrahmanik&show_icons=true&theme=tokyonight" />
 </p>
 
