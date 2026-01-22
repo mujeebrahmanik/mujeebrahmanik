@@ -13,7 +13,7 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 
 #### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next" />
 </div>
 
 #### **Backend**
