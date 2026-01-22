@@ -42,6 +42,7 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 
 | Role | Company | Tech Stack | Duration |
 |------|---------|------------|----------|
+| Full Stack Developer | Magmax Communication, Calicut | Django, Laravel, React, Next js, CI/CD | Jan 2026 – Present |
 | Full Stack Developer | Hemito Digital, Kochi | Django, Laravel, React, CI/CD | Feb 2025 – Jul 2025 |
 | Full Stack Developer | Vootech Software, Bangalore | Django, React, Docker, Laravel | Jan 2024 – Dec 2024 |
 | Full Stack Developer | One Team Solutions EdTech, Kochi | Django, PostgreSQL, Microservices | Nov 2022 – Dec 2023 |
