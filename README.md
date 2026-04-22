@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=220&section=header&text=MUJEEB%20RAHMAN%20I%20K&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Python%20·%20PHP%20·%20Django%20·%20Laravel%20·%20React%20&descSize=18&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=220&section=header&text=MUJEEB%20RAHMAN%20I%20K&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Python%20·%20PHP%20·%20Django%20·%20Laravel%20·%20React%20·%20Next JS%20&descSize=18&descAlignY=60" />
 </p>
 
 ### 🚀 About Me
