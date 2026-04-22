@@ -52,8 +52,8 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 ### 🌍 Featured Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| HotAirBalloonDubai.me | Tourism booking platform | 🔗 Visit Website |
-| eCannabuy.com | E-commerce store with WooCommerce | 🔗 Visit Website |
+| Kripa Financial | Mortgage platform | 🔗 [Visit Website](https://kripa.co.nz/) |
+| 7 Entertainment | Event provider website | 🔗 [Visit Website](https://7entertainment.co.nz/)  |
 | GlowNestClinic.com | SEO-based appointment booking site | 🔗 Visit Website |
 | PocketTaxAcademy.com | Online course registration platform | 🔗 Visit Website |
 
