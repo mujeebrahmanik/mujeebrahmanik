@@ -28,7 +28,7 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 
 #### **DevOps & Deployment**
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,aws,vercel,cloudflare" />
 </div>
 
 #### **CMS**
