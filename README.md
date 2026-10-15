@@ -23,7 +23,7 @@ Highly skilled in scalable backend systems, modern front-end frameworks, and SEO
 
 #### **Databases**
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </div>
 
 #### **DevOps & Deployment**
